@@ -16,9 +16,11 @@
 ---
 
 ## 📂 디렉토리 구조
+```
 onboarding/
 ├── Auth.py                # 인증 우회, 인가 우회
 └── README.md              # This file
+```
 
 ---
 
