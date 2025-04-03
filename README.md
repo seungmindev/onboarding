@@ -58,9 +58,11 @@ so you can learn common web security issues through hands-on testing.
 
 ## 📂 Directory Structure
 
+```
 onboarding/
 ├── Auth.py                # Authentication, Authorization Bypass
 └── README.md              # This file
+```
 
 ---
 
